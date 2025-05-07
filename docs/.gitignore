@@ -1,0 +1,8 @@
+# Archivos temporales
+**/.DS_Store
+**/Thumbs.db
+# Previews de VSCode
+.vscode/
+# Salidas de build (por si generas PDFs)
+*.pdf
+
